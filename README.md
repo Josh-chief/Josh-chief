@@ -11,7 +11,7 @@ Additionally, I am big fun of open-source,where I have learned a lot and gained 
 
 - 🔭 I’m currently working on **Restaurant App.**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **Machine Learning in Mobile Dev.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects.**
 
