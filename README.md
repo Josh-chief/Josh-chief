@@ -17,7 +17,7 @@ Additionally, I am big fun of open-source,where I have learned a lot and gained 
 
 - 📫 How to reach me **ngumijosh21@gmail.com**
 
-- ⚡ Fun fact **I am a rock fun an astrophile.**
+- ⚡ Fun fact **I am a rock fun and an astrophile.**
 
 ## 🚀 Languages and Tools:
 
